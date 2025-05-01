@@ -13,4 +13,4 @@ scikit-learn : 1.6.0
 
 *Jika di download di google drive, langsung download satu folder PKM-KC_AIProject_Tester dan simpan di penyimpanan local computer.
 
-Kami juga sertakan folder virtual environtment yang kami pakai di link drive. Model yang kami sediakan adalah model dengan hasil latih terbaik kami, dengan test accuracy 90% memakai file train yang sama. ( dapat dilihat dengan menjalankan evaluate ).
+Saya juga sertakan folder virtual environtment yang kami pakai di link drive. Model yang kami sediakan adalah model dengan hasil latih terbaik kami, dengan test accuracy 90% memakai file train yang sama. ( dapat dilihat dengan menjalankan evaluate ).
